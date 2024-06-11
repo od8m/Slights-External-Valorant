@@ -13,3 +13,4 @@ Supported modes: Windowed and Borderless
 ![image](https://github.com/od8m/Falcon-VIP/assets/99853953/9936e321-1051-43fb-a314-870b85b406c5)
 
 ![image](https://github.com/od8m/Slights-External-Valorant/assets/99853953/393de29f-c0c0-4c37-afc8-e7890d425567)
+![image](https://github.com/od8m/Slights-External-Valorant/assets/99853953/77f78e5b-301a-4462-ad49-af725ca91cc4)
