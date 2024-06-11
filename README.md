@@ -1,5 +1,6 @@
 # Slights-External-Valorant
 > ***! - Fully Unpacked / deobfuscated.***
+
 > ***! - bypassed safe-guard authenticate license, Forced Driver Load, Bypassed keyauth update brick.***
 
 **Support**:
